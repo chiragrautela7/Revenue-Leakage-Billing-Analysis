@@ -47,4 +47,4 @@ Data cleaning, missing-value handling, data type conversion, GroupBy/aggregation
 Invoice aging, automated risk alerts, payment-delay prediction, BI dashboard integration, and automated finance reporting.
 
 ## Author
-**Chirag Rautela** — BCA Student | Aspiring Data Analyst
+**Chirag Rautela** — BCA Student | Data Analyst
